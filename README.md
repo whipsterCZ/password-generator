@@ -58,7 +58,7 @@ před použitím tohoto algorytmu doporučuji udělat pár zněm
 
 - modifikujte PasswordGenerator::SEED
 - můžete modifikovat heslo na základně operací ze $seed1 a $seed2 
-   - povoleny jsou deterministické algorytmy ( obousměrné )
+   - povoleny jsou deterministické operace ( předvídatelné , non-random )
    
 ```
 //příklad diferenciace
