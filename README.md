@@ -19,7 +19,7 @@ live demo: https://www.danielkouba.cz/pass. !it uses customized algorhytm!
   - Samozřejmě i zde platí, čím silnější, tím leší!
   - Doporučuji alespoň 6 znaků, číslici a velké písmeno
 - **Zadejte službu**, pro kterou chcete heslo vygenerovat
-- Zadejte verzi hesla - pro případ, že služba vyžqduje periodickou změnu hesla, nebo v případě že heslo bylo odhaleno
+- Zadejte verzi hesla - pro případ, že služba vyžaduje periodickou změnu hesla, nebo v případě že heslo bylo odhaleno
 - **Vygenerové heslo si zkopírujte do schránky** pro použité ve službě
 - Vygenerovane heslo si nikam **nemusíte ukládat** (doporučeno).
 - Při zadání **stejných parametrů** je vygenerováno vždy **STEJNÉ heslo**.
@@ -53,8 +53,8 @@ live demo: https://www.danielkouba.cz/pass. !it uses customized algorhytm!
 - Pokud se **přihlašujete** na stránkách **bez HTTPS** nebo na **veřejných wifi** měli by jste být  [velmi obezřetní](https://www.lupa.cz/clanky/jak-jde-nejen-na-alza-cz-nakoupit-za-cizi-penize/)
 - Odkaz na váš generátor si uložte do záložek a už nikdy nepiště jeho URL do prohlížeče
 
-## Diferenciace & customizace algorytmu
-před použitím tohoto algorytmu doporučuji udělat pár zněm
+## Diferenciace & customizace algoritmu
+před použitím tohoto algoritmu doporučuji udělat pár zněm
 
 - modifikujte PasswordGenerator::SEED
 - můžete modifikovat heslo na základně operací ze $seed1 a $seed2 
