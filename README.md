@@ -1,7 +1,7 @@
 # password-generator
 Personal Ultimate Password Solution - it generates unique password for service
 
-live demo: https://www.danielkouba.cz/pass
+live demo: https://www.danielkouba.cz/pass. !it uses customized algorhytm!
 
 ## Motivace
 
